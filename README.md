@@ -9,3 +9,9 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+##
+
+<div>
+    ![Snake animation](https://github.com/vslucas/vslucas/blob/output/github-contribution-grid-snake.svg)
+</div>
