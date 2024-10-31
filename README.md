@@ -1,8 +1,8 @@
-### Olá, eu me chamo Lucas! 👋
+### Hello, my name is Lucas! 👋
 <hr><img align="right" width="200" src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47gnu4xg1ilmqcd6orsc27it7rk5v9cb19vmp3s3p7&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-:earth_americas: - Desenvolvedor Web com experiência em Relações Internacionais <br>
-:books: - Continuamente aprimorando minhas habilidades em front-end
+:earth_americas: - Web Developer with expertise on CMS, ERP and hand-coded <br>
+:books: - Always learning new things
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
